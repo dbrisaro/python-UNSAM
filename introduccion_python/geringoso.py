@@ -4,7 +4,7 @@ Ejercicio 1.18 - Geringoso
 Dani Risaro
 """
 
-cadena = 'boligoma'
+cadena = 'ferrocarril'
 capadepenapa = ''
 vocales = 'a,e,i,o,u'
 
