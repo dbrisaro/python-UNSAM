@@ -3,6 +3,7 @@ Ejercicio 1.11 - Bonus hipoteca
 
 Dani Risaro
 """
+
 saldo = 500000.0
 tasa = 0.05
 pago_mensual = 2684.11
